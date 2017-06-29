@@ -10,6 +10,7 @@ body {
 
 }
 
+/* header */
 .header_logo {
   width: 34px;
   height:72px;
@@ -29,11 +30,49 @@ body {
 }
 
 .header_title {
-  width: 301px;
+  width: 325px;
   height: 48px;
   font-family: Impact;
   font-size: 40px;
   color: #0b1b52;
   text-transform: uppercase;
   margin: 38px auto;
+}
+
+
+/* main-content */
+.main-content {
+  width: 82%;
+  margin: 60px auto;
+}
+
+.main-content_ul {
+  list-style-type: none;
+  width: 47%;
+}
+
+.main-content_image {
+  object-fit: contain;
+  margin-right: 13px;
+  vertical-align: middle;
+  width: 40px;
+  height: 40px;
+  margin-right: 24px;
+}
+
+.main-content_li--line-through, 
+.main-content_li {
+  width: 472px;
+  height: 40px;
+  margin-bottom: 27px;
+  font-family: Roboto;
+  font-size: 22px;
+  font-stretch: condensed;
+  color: #0b1b52;
+
+}
+
+
+.main-content_li--line-through {
+  text-decoration: line-through;
 }
