@@ -43,6 +43,7 @@ body {
 /* main-content */
 .main-content {
   width: 82%;
+  height: 603px;
   margin: 60px auto;
 }
 
@@ -72,7 +73,11 @@ body {
 
 }
 
-
 .main-content_li--line-through {
   text-decoration: line-through;
+}
+
+/* footer */
+footer {
+
 }
