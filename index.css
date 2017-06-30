@@ -50,12 +50,11 @@
 
 .list {
   list-style-type: none;
-  width: 47%;
+  width: 521px;
 }
 
 .list__image {
   object-fit: contain;
-  margin-right: 13px;
   vertical-align: middle;
   width: 40px;
   height: 40px;
@@ -63,14 +62,13 @@
 }
 
 .list__item {
-  width: 472px;
+  width: 520px;
   height: 40px;
   margin-bottom: 27px;
   font-family: 'Roboto', sans-serif;
   font-size: 22px;
   font-stretch: condensed;
   color: #0b1b52;
-
 }
 
 .list__item--line-through {
