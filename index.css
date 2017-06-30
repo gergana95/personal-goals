@@ -2,7 +2,6 @@
   font-family: 'Roboto';
   src: url('https://fonts.googleapis.com/css?family=Roboto');
 }
-/*@import url('https://fonts.googleapis.com/css?family=Roboto');*/
 
 .wrapper {
   width: 100%;
@@ -22,7 +21,7 @@
 
 .header_content {
 	margin: 0 auto;
-	width: 41%;
+	width: 549px;
 }
 
 .header_image {
